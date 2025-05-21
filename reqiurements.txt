@@ -1,5 +1,5 @@
-flask
+streamlit
 numpy
 tensorflow
+scikit-learn
 joblib
-gunicorn
